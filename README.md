@@ -1,1 +1,1 @@
-In this repo I developed various projects using OOP principles in Java.
+I'm sharing some of the builds projects I've made here.
